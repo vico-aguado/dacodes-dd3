@@ -1,0 +1,13 @@
+include: package:very_good_analysis/analysis_options.3.1.0.yaml
+
+analyzer:
+  exclude:
+    - lib/generated/intl/messages_all.dart
+    - lib/generated/l10n.dart
+
+linter:
+  rules:
+    lines_longer_than_80_chars: false
+    flutter_style_todos: false
+    public_member_api_docs: false
+    sort_constructors_first: false
