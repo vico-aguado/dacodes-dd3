@@ -3,4 +3,4 @@
 
 Este proyecto está realizado con una mezcla de Clean Architecture y BLoC
 
-[![Architecture](/_screenshots/arch.png)](https://ejemplo.com)
+[![Architecture|10](/_screenshots/arch.png)](https://ejemplo.com)
