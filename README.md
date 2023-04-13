@@ -24,7 +24,7 @@ Este proyecto está realizado con una mezcla de Clean Architecture y BLoC
 |/src/ui/|Estarán los archivos referentes a las pantallas y widgets a mostrar en la app|
 |/src/ui/bloc|BLoC general de la app|
 |/src/ui/widgets|Widgets que son compartidos en diferentes pantallas|
-|/src/ui/screens|Pantallas que se muestran en la app, separadas por cada sección o modulo. Cada carpeta tiene su BLoC y sus widgets individuales que sólo se usan en esa pantalla |
+|/src/ui/screens|Pantallas que se muestran en la app, separadas por cada sección o módulo. Cada carpeta tiene su BLoC y sus widgets individuales que sólo se usan en esa pantalla |
 |-|-|
 |/src/utils|Se encuentran los archivos con constantes que se usan en el proyecto o métodos de ayuda|
 |-|-|
@@ -42,7 +42,7 @@ Se completó al 100% el coverage de los BLoC's usados en el proyecto
 
 <img src="_screenshots/blocs_test_coverage.png"  width="200" height="486">
 
-Los test de integraación se realizaron con Patrol para un testeo más optimizado sin tanto código.
+Los test de integración se realizaron con Patrol para un testeo más optimizado sin tanto código.
 
 Evidencia de que los test de integración se aprobaron con éxito
 
